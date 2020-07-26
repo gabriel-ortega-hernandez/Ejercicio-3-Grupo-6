@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 .vector_cache/
+conjuntos/
+data/
+modelos/
+resultados/
